@@ -23,3 +23,5 @@ Ejecutar desde la raíz del proyecto:
 ```bash
 python main.py
 ```
+
+Link del video: https://youtu.be/4VxXFVxTsWE 
